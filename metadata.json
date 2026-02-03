@@ -1,0 +1,8 @@
+{
+  "name": "Copy of HealthGuard - Asisten Kesehatan & Gizi Profesional",
+  "description": "Aplikasi kesehatan komprehensif yang menggunakan AI Gemini untuk analisis nutrisi makanan, perencanaan menu harian, dan konsultasi kesehatan pribadi dengan data mendalam.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
